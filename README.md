@@ -144,6 +144,8 @@ The section below is **auto-generated from [`registry.json`](./registry.json)**.
 | **Vectorize Google Drive** | Vectorizes Google Drive data and loads it into a vector database. Enables fast, accurate search and RAG Flows grounded in the context of your data. | Naitik Kapadia | — | [`/kits/vectorize-google-drive`](./kits/vectorize-google-drive) |
 | **Vectorize Google Sheets** | This flow vectorizes Google Sheets data and loads it into a vector database, enabling fast, accurate search and RAG flows grounded in the context of your data. | Naitik Kapadia | — | [`/kits/vectorize-google-sheets`](./kits/vectorize-google-sheets) |
 | **Webpage QA** | This AI-powered system scrapes data from a website, processes it using AI, and enables users to ask questions based on the extracted information. | Naitik Kapadia | — | [`/kits/webpage-qa`](./kits/webpage-qa) |
+| **Email-Agent** |An AI-powered email assistant that verifies inbound emails for authenticity and intent, then drafts context-aware professional replies instantly.| Krishna Khurana | — | [`/kits/email-agent`](./kits/email-agent) |
+
 
 ---
 
